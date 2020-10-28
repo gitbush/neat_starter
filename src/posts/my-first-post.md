@@ -3,7 +3,7 @@ title: This is my first post
 description: Capitalize on low hanging fruit to identify a ballpark value added
   activity to beta test. Override the digital divide with additional
   clickthroughs from DevOps.
-author: Surjith S M
+author: M Bush
 date: 2020-09-01
 tags:
   - left
@@ -16,26 +16,6 @@ tags:
 
 ###### This is a Heading h6
 
-## Emphasis
-
-*This text will be italic*\
-*This will also be italic*
-
-**This text will be bold**\
-**This will also be bold**
-
-*You **can** combine them*
-
-## Lists
-
-### Unordered
-
-* Item 1
-* Item 2
-
-  * Item 2a
-  * Item 2b
-
 ### Ordered
 
 1. Item 1
@@ -45,7 +25,17 @@ tags:
    1. Item 3a
    2. Item 3b
 
-## Links
+![New photo ](/static/img/8727_010520.jpg "New photo ")
+
+## Emphasis
+
+*This text will be italic*\
+*This will also be italic*
+
+**This text will be bold**\
+**This will also be bold**
+
+*You **can** combine them*
 
 You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
